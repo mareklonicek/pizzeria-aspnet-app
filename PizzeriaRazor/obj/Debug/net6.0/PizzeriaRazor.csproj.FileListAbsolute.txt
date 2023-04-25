@@ -1,0 +1,8 @@
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.csproj.AssemblyReference.cache
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.AssemblyInfoInputs.cache
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.AssemblyInfo.cs
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.csproj.CoreCompileInputs.cache
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.RazorAssemblyInfo.cache
+C:\Users\Marek\source\repos\PizzeriaRazor\PizzeriaRazor\obj\Debug\net6.0\PizzeriaRazor.RazorAssemblyInfo.cs
